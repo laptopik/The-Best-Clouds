@@ -16,8 +16,8 @@ Updated: 2025.06
 | 🇨🇿 | [Ulož.to](https://uloz.to/) | 25GB | ? | 150GB monthly transfer limit | 
 | ? | [Filen](https://filen.io/) | 20GB | ? | ? | 
 | 🇨🇭 | [kDrive](https://www.infomaniak.com/en/free-cloud) | 15GB | ? | ? | 
-| ? | [Blomp](https://blomp.com/) | 40GB | ? | ? | 
-| ? | [Drime](https://drime.cloud/) | 20GB | ? | ? | 
+| 🇺🇸 | [Blomp](https://blomp.com/) | 40GB | ? | ? | 
+| 🇫🇷 | [Drime](https://drime.cloud/) | 20GB | ? | ? | 
 | ? | ? | ? | ? | ? | 
 | ? | ? | ? | ? | ? | 
 | ? | ? | ? | ? | ? | 
@@ -26,25 +26,25 @@ Updated: 2025.06
 ## Paid
 | Country | Name | Space | ↓💰 Price |
 | :-----: | :--: | :---: | :------- |
-| ? | ? | ? | ? | 
+| 🇩🇰 | [Onlime](https://signup.onlime.dk/create?sub=plan_privat_familie_100gb_mdn) | 100GB | 29DKK ~ $4.50 | 
+| 🇪🇸 | Internxt | 1GB | only 1GB free | 
 | ? | ? | ? | ? | 
 
 ## Other
 | Country | ↓Name | Free Space | 👎 Reasons for rejection |
 | :-----: | :--: | :--------: | :----------------------- |
-| ? | Amaryllo Cloud | 10GB | ? | 
-| ? | box | 10GB | 250MB file limit | 
-| ? | Ctfile | 5TB | slow transfer speed, chinese interface | 
-| ? | Dropbox | 2GB | not safe, only 2GB free | 
+| 🇺🇸 | Amaryllo Cloud | 10GB | ? | 
+| 🇺🇸 | box | 10GB | 250MB file limit | 
+| 🇨🇳 | Ctfile | 5TB | slow transfer speed, chinese interface | 
+| 🇺🇸 | Dropbox | 2GB | not safe, only 2GB free | 
 | 🇺🇸 | Google Drive | 15GB | not safe | 
 | 🇬🇮 | icedrive | 10GB | slow transfer speed even for paid users | 
-| ? | internxt | 1GB | only 1GB free | 
-| ? | Jottacloud | 5GB | only 5GB free | 
-| ? | MediaFire | 10GB | 4GB file limit | 
-| ? | Microsoft OneDrive | ? | ? | 
-| ? | NordLocker | 3GB | only 3GB free, not safe | 
-| ? | pCloud | 7GB | slow transfer speed, only 7GB free instead of 10GB advertised | 
-| ? | Proton Drive | 5GB | only 5GB free | 
-| ? | sync | 5GB | only 5GB free | 
-| ? | Yandex Disk | 5GB | only 5GB free, location in Russia | 
-| ? | Zoho WorkDrive | 5GB | only 5GB free, 1GB file limit | 
+| 🇳🇴 | Jottacloud | 5GB | only 5GB free | 
+| 🇺🇸 | MediaFire | 10GB | 4GB file limit | 
+| 🇺🇸 | Microsoft OneDrive | ? | ? | 
+| 🇳🇱 | NordLocker | 3GB | only 3GB free, not safe | 
+| 🇨🇭 | pCloud | 7GB | slow transfer speed, only 7GB free instead of 10GB advertised | 
+| 🇨🇭 | Proton Drive | 5GB | only 5GB free | 
+| 🇺🇸 | sync | 5GB | only 5GB free | 
+| 🇷🇺 | Yandex Disk | 5GB | only 5GB free, location in Russia | 
+| 🇮🇳 | Zoho WorkDrive | 5GB | only 5GB free, 1GB file limit | 

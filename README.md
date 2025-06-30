@@ -1,13 +1,14 @@
+# The Best Clouds
 🕛 Updated: 2025.06
 
 🌍 Tested: in EU
 
 ❔ Requirement: unrestricted
 
-# The Best Clouds
+Categories:
 - [Free](#free)
 - [Cheapest](#cheapest)
-- [Other](#other)
+- [Nonqualified](#nonqualified)
 
 ## Free
 | Country | Name | Space | ↓✔️ Main advantage | ❌ Main disadvantage |
@@ -33,11 +34,10 @@
 | 🇸🇮 | [Koofr](https://koofr.eu/) | 110GB | €2.00 | 
 | 🇫🇷 | [Drime](https://drime.cloud/) | 500GB | €2.39 / €2.99 | 
 | 🇸🇪 | [Degoo](https://degoo.com/) | 500GB | $2.99 | 
-| 🇯🇵 | [TeraBox](https://www.terabox.com/main) | 1TB | $2.99 / $3.49 | 
-| 🇩🇰 | [Onlime](https://signup.onlime.dk/create?sub=plan_privat_familie_100gb_mdn) | 100GB-10TB | ~$4.50 (29DKK) | 
+| 🇯🇵 | [TeraBox](https://www.terabox.com/main) | 2TB | $2.99 / $3.49 | 
 | 🇨🇭 | [kDrive](https://www.infomaniak.com/en/free-cloud) | 3TB | €4.99 | 
 
-## Other
+## Nonqualified
 | Country | ↓Name | Free Space | 👎 Reasons for rejection |
 | :-----: | :--: | :--------: | :------------------------ |
 | 🇺🇸 | box | 10GB | 250MB file limit | 

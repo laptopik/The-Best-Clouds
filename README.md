@@ -43,6 +43,8 @@ Categories:
 | 🇺🇸 | box | 10GB | 250MB file limit | 
 | 🇨🇳 | Ctfile | 5TB | slow transfer speed, chinese interface | 
 | 🇺🇸 | Dropbox | 2GB | only 2GB free, not safe✸ | 
+| ? | Felicloud | 10GB | only 50GB monthly traffic | 
+| ? | FileLu | 1GB | only 1GB free | 
 | 🇺🇸 | Google Drive | 15GB | not safe✸ | 
 | 🇬🇮 | icedrive | 10GB | slow transfer speed even for paid users | 
 | 🇪🇸 | Internxt | 1GB | only 1GB free | 

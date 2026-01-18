@@ -49,10 +49,12 @@ Categories:
 | 🇳🇴 | Jottacloud | 5GB | only 5GB free | 
 | 🇺🇸 | MediaFire | 10GB | 4GB file limit | 
 | 🇺🇸 | Microsoft OneDrive | 5GB | only 5GB free, not safe✸ | 
+| ? | Nextcloud Files | - | only for Enterprise users | 
 | 🇳🇱 | NordLocker | 3GB | only 3GB free, not safe✹ | 
 | 🇨🇭 | pCloud | 7GB | slow transfer speed, only 7GB free instead of 10GB advertised | 
 | 🇨🇭 | Proton Drive | 5GB | only 5GB free | 
 | 🇺🇸 | sync | 5GB | only 5GB free | 
+| ? | Tresorit | - | 2GB file limit | 
 | 🇷🇺 | Yandex Disk | 5GB | only 5GB free, not safe/accessible (Russia) | 
 | 🇮🇳 | Zoho WorkDrive | 5GB | only 5GB free, 1GB file limit | 
 

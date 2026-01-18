@@ -1,5 +1,5 @@
 # The Best Clouds
-🕛 Updated: 2025.06
+🕛 Updated: 2026.01
 
 🌍 Tested: in EU
 
@@ -17,9 +17,9 @@ Categories:
 | 🇫🇷 | [Shadow](https://shadow.tech/gb/drive/offers/) | 20GB | ? | ? |
 | 🇺🇸 | [Blomp](https://blomp.com/) | 40GB | ? | ? | 
 | 🇸🇪 | [Degoo](https://degoo.com/) | 20GB | ? | requirement to login max every 90 days |
-| 🇩🇪 | [Filen](https://filen.io/) | 20GB | ? | ? | 
-| 🇨🇭 | [kDrive](https://www.infomaniak.com/en/free-cloud) | 15GB | ? | ? | 
 | 🇫🇷 | [Drime](https://drime.cloud/) | 20GB | ? | ? | 
+| 🇨🇭 | [kDrive](https://www.infomaniak.com/en/free-cloud) | 15GB | ? | ? | 
+| 🇩🇪 | [Filen](https://filen.io/) | 10GB | ? | ? | 
 | 🇺🇸 | [Amaryllo Cloud](https://cloud.amaryllo.us/) | 10GB | ? | ? | 
 | 🇺🇸 | [IDrive](https://www.idrive.com/pricing) | 10GB | ? | ? | 
 | 🇯🇵 | [TeraBox](https://www.terabox.com/main) | 1TB | ? | user needs account to be able to download | 
@@ -30,7 +30,7 @@ Categories:
 ## Cheapest
 | Country | Name | Space | ↓💰 Lowest price (yr/mth) |
 | :-----: | :--: | :---: | :------------------------ |
-| 🇩🇪 | [Filen](https://filen.io/) | 200GB | €1.99 | 
+| 🇩🇪 | [Filen](https://filen.io/) | 200GB | €1.99 / €1.67 | 
 | 🇸🇮 | [Koofr](https://koofr.eu/) | 110GB | €2.00 | 
 | 🇫🇷 | [Drime](https://drime.cloud/) | 500GB | €2.39 / €2.99 | 
 | 🇸🇪 | [Degoo](https://degoo.com/) | 500GB | $2.99 | 
@@ -49,7 +49,7 @@ Categories:
 | 🇳🇴 | Jottacloud | 5GB | only 5GB free | 
 | 🇺🇸 | MediaFire | 10GB | 4GB file limit | 
 | 🇺🇸 | Microsoft OneDrive | 5GB | only 5GB free, not safe✸ | 
-| ? | Nextcloud Files | - | only for Enterprise users | 
+| ? | Nextcloud Files | - | only for Enterprise users? | 
 | 🇳🇱 | NordLocker | 3GB | only 3GB free, not safe✹ | 
 | 🇨🇭 | pCloud | 7GB | slow transfer speed, only 7GB free instead of 10GB advertised | 
 | 🇨🇭 | Proton Drive | 5GB | only 5GB free | 
